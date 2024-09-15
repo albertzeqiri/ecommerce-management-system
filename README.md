@@ -1,1 +1,1 @@
-# ecommerce-management-system
+Management system created in MySQL database
